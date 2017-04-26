@@ -25,7 +25,7 @@ public class CapabilityUrls {
 	private URL mUrl;
 
 	public CapabilityUrls() {
-		this(null);
+		 this(null);
 	}
 
 	public CapabilityUrls(URL baseurl) {
