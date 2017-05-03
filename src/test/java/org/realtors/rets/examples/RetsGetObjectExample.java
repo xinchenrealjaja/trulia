@@ -40,7 +40,7 @@ public class RetsGetObjectExample {
 		String password = "password";
 		try {
 			//Login
-			session.login(username, password);
+			 session.login(username, password);
 		} catch (RetsException e) {
 			e.printStackTrace();
 		}
