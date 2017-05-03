@@ -10,5 +10,5 @@ package org.realtors.rets.common.metadata;
 import junit.framework.TestCase;
 
 public abstract class MetadataTestCase extends TestCase {
-	// nothing yet but we always end up wanting something
+	
 }
