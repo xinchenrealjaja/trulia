@@ -19,7 +19,7 @@ public class RetsGetMetadataExample {
 
 	public static void main(String[] args) throws MalformedURLException {
 
-		//Create a RetsHttpClient (other constructors provide configuration i.e. timeout, gzip capability)
+		//Create a RetsHtt provide configuration i.e. timeout, gzip capability)
 		RetsHttpClient httpClient = new CommonsHttpClient();
 		RetsVersion retsVersion = RetsVersion.RETS_1_7_2;
 		String loginUrl = "http://theurloftheretsserver.com";
